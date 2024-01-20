@@ -4,7 +4,7 @@
 
 The current business problem statement is that there is a need for a system that could manage to park vehicles in parking areas automatically. Due to an increase in the number of vehicles day by day, authorities are facing problems in managing vehicles in parking areas. For this, there is a need for a system that can solve this issue. They need a system that could lessen the burden on employees.
 
-
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/Picture1.jpg)
 
 ## Solution:
 
@@ -12,24 +12,37 @@ A mobile app will digitalize the entire process of parking.
 
 ## Features:
 
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/featurers.jpg)
 
 ## Registration and Login:
 
 The provided platform will have the feature of registering employees of the infrastructure, enabling the administration to ensure a hassle-free execution of the parking process. The identity of the user is verified and validated as an employee, collecting the required data.
 
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/Picture3.jpg)
+
+
 ## Scan to Confirm:
 
 The QR codes are customizable, both in function and design, and are proven to be the best and most cost-effective channel for connecting traditional print media with any interactive online content. A QR code corresponding to each parking spot is available for scanning by the user to book their desired vacant parking spot.
 
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/Picture4.jpg)
+
+
 ## Access Live Parking:
 
 The provided platform shows the driver a real-time view of available and unavailable parking spots via a simple and comprehensive interface, allowing them to acquire a vacant parking space and automatically tracks the data on entering and leaving of vehicles from the parking space.
+
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/Picture5.png)
+
 
 ## Future Prospective:
 
 The idea for the future is to better inform drivers about where they can find parking to help reduce congestion in the parking area, which has been blamed on drivers searching for available parking spaces. This can be done by furnishing the existing application with real-time cloud-based booking of the parking spots from a mobile location. Another future prospect can be the application providing Parking-analytics and patterns for the users of this technology. In-vehicle hands-free code scanning and wireless sensor integration can be an outlook of our problem.
 
 ## High-Level Design:
+
+![image](https://github.com/supragyabajpai/Smart_Parking/blob/main/pictures/Picture6.jpg)
+
 
 ## Scalability:
 
